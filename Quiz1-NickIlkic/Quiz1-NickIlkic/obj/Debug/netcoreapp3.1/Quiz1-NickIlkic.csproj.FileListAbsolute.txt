@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\c--assgn-3\Quiz1-NickIlkic\Quiz1-NickIlkic\bin\Debug\netcoreapp3.1\Quiz1-NickIlkic.exe
+C:\Users\admin\source\repos\c--assgn-3\Quiz1-NickIlkic\Quiz1-NickIlkic\bin\Debug\netcoreapp3.1\Quiz1-NickIlkic.deps.json
+C:\Users\admin\source\repos\c--assgn-3\Quiz1-NickIlkic\Quiz1-NickIlkic\bin\Debug\netcoreapp3.1\Quiz1-NickIlkic.runtimeconfig.json
+C:\Users\admin\source\repos\c--assgn-3\Quiz1-NickIlkic\Quiz1-NickIlkic\bin\Debug\netcoreapp3.1\Quiz1-NickIlkic.runtimeconfig.dev.json
+C:\Users\admin\source\repos\c--assgn-3\Quiz1-NickIlkic\Quiz1-NickIlkic\bin\Debug\netcoreapp3.1\Quiz1-NickIlkic.dll
+C:\Users\admin\source\repos\c--assgn-3\Quiz1-NickIlkic\Quiz1-NickIlkic\bin\Debug\netcoreapp3.1\Quiz1-NickIlkic.pdb
+C:\Users\admin\source\repos\c--assgn-3\Quiz1-NickIlkic\Quiz1-NickIlkic\obj\Debug\netcoreapp3.1\Quiz1-NickIlkic.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\c--assgn-3\Quiz1-NickIlkic\Quiz1-NickIlkic\obj\Debug\netcoreapp3.1\Quiz1-NickIlkic.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\c--assgn-3\Quiz1-NickIlkic\Quiz1-NickIlkic\obj\Debug\netcoreapp3.1\Quiz1-NickIlkic.AssemblyInfo.cs
+C:\Users\admin\source\repos\c--assgn-3\Quiz1-NickIlkic\Quiz1-NickIlkic\obj\Debug\netcoreapp3.1\Quiz1-NickIlkic.dll
+C:\Users\admin\source\repos\c--assgn-3\Quiz1-NickIlkic\Quiz1-NickIlkic\obj\Debug\netcoreapp3.1\Quiz1-NickIlkic.pdb

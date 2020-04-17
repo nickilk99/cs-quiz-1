@@ -1,0 +1,5 @@
+﻿            Quiz
+            
+            
+            1. Which Statement is correct?
+            a. Properties of anonymous types will be read-only properties so you cannot change their values.
